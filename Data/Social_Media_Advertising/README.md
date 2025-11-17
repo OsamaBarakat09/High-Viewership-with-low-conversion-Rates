@@ -67,7 +67,8 @@ The original dataset contains a combination of **campaign performance metrics** 
 | `Gender` | Gender of the audience |
 | `Age_Start` / `Age_End` | Age range of the audience |
 
-> ⚡ **Note:** To simplify analysis and focus on specific aspects, the original dataset was divided into **three datasets**:  
+> ⚡ **Note:** To streamline the analysis and enable a more focused exploration of key aspects, the original dataset has been **strategically divided into three distinct datasets**.  
+This separation allows for **independent examination of campaign performance, audience demographics, and detailed performance metrics**, while maintaining the ability to merge them for comprehensive analysis when needed.  
 
 ### **1️⃣ Campaign Info Dataset**
 | Column | Description |
