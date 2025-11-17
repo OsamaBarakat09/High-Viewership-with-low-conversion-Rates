@@ -1,8 +1,16 @@
-# 📉 High Viewership with Low Conversion Rates
+# 📊 Social Media Advertising Analysis — High Viewership with Low Conversion Rates
 
-Understanding why marketing campaigns or social media content attract a **large audience** but fail to convert attention into meaningful actions — such as purchases, sign-ups, or engagement.  
+This section of the larger **"High Viewership with Low Conversion Rates"** project focuses specifically on **social media advertising campaigns**.  
 
-This project applies **data science and marketing analytics** to identify the underlying causes behind low conversion rates despite strong viewership metrics, using real-world campaign data and advanced analytical techniques.
+While many campaigns achieve high impressions, clicks, or engagement metrics, they often fail to convert that attention into **meaningful business outcomes** — such as purchases, sign-ups, or subscriptions.  
+
+This analysis applies **advanced data science and marketing analytics techniques** to uncover the **key factors behind low conversion rates on social media platforms**, including:
+
+- Audience behavior patterns that drive engagement but do not translate into conversions.  
+- The effectiveness of different advertising channels, content types, and targeting strategies.  
+- Actionable insights to improve campaign efficiency, ROI, and targeting precision.
+
+By focusing on this part of the broader project, we aim to provide a **clear, data-driven understanding of social media performance**, enabling businesses and marketers to **maximize conversion while maintaining high engagement levels**.
 
 ---
 
