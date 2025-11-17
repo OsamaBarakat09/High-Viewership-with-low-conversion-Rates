@@ -29,6 +29,40 @@ By examining campaign performance, audience demographics, and detailed engagemen
 This dataset serves as the foundation for **predictive modeling, segmentation analysis, and actionable marketing insights**, providing marketers and data analysts with the tools to **maximize conversion while maintaining high engagement**.
 
 ---
+## 🗂️ Data Sources / Origin
+
+The datasets in this folder are derived from a **Kaggle public dataset** related to social media advertising.  
+They have been **adapted and processed** to simulate real-world scenarios similar to the campaigns conducted by my company. Due to confidentiality, the exact company data cannot be shared publicly.  
+
+All datasets are provided as **CSV files** for easy use in analysis and modeling.  
+
+Key notes about the data:
+
+- No APIs were used to collect or generate the data.  
+- The data has been prepared for analysis with **no licensing restrictions or usage limitations** applied.  
+- All modifications, cleaning, and preprocessing have been performed to make the datasets **ready for exploration, merging, and modeling**.
+
+---
+## ⚙️ Dependencies
+
+To effectively work with the datasets in this folder and perform analysis, the following tools and libraries are recommended:
+
+- 🐍 **Python 3.8+** – The primary programming language used for data analysis and modeling.  
+- 📊 **pandas** – For loading, cleaning, merging, and manipulating CSV datasets.  
+- 🔢 **NumPy** – For numerical operations, calculations, and array manipulations.  
+- 📉 **matplotlib** – For creating visualizations of campaign performance and audience metrics.  
+- 📈 **seaborn** – For advanced statistical visualizations, including distributions and correlations.  
+- 🧠 **scikit-learn** – For predictive modeling, classification, and clustering of high-value audience segments.  
+- 🔍 **Jupyter Notebook / JupyterLab** – Recommended environment for exploratory data analysis, visualization, and step-by-step experimentation.  
+
+> 💡 **Optional / Additional Tools:**  
+> - 🗃️ **OpenPyXL** or **xlrd** – If exporting or reading Excel files in future analyses.  
+> - 📦 **Plotly** – For interactive visualizations of engagement, CTR, and conversion rates.  
+> - 🧹 **Missingno** – Optional library for visualizing missing values in datasets.  
+
+These dependencies provide a **comprehensive toolkit** for cleaning, exploring, and analyzing the social media advertising data, while supporting **predictive modeling and actionable insights**.
+
+---
 
 ## 🚨 Problem Statement
 
