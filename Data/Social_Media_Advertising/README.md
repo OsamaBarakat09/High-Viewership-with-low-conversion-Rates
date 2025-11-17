@@ -16,13 +16,15 @@ By focusing on this part of the broader project, we aim to provide a **clear, da
 
 ## 🚨 Problem Statement
 
-Modern marketing campaigns often generate significant traffic and engagement metrics — high impressions, clicks, or video views — but still fail to achieve **desired conversion goals**.
+Social media campaigns often generate **large volumes of traffic and engagement metrics** — such as impressions, clicks, likes, shares, or video views — yet fail to convert this attention into **meaningful business outcomes** like purchases, sign-ups, or subscriptions.
 
-This project investigates *why high viewership does not always translate into high conversions*, aiming to:
+This analysis focuses on understanding **why high engagement does not necessarily lead to high conversions** on social media platforms. Specifically, it aims to:
 
-- Identify audience behavior patterns leading to drop-offs.
-- Analyze the effectiveness of marketing channels, content, and targeting.
-- Develop data-driven recommendations to improve conversion performance and ROI.
+- **Identify audience behavior patterns** that result in high engagement but low conversion, revealing drop-off points in the user journey.  
+- **Evaluate the effectiveness of marketing channels, campaign content, and targeting strategies** to determine which factors contribute to underperformance.  
+- **Develop actionable, data-driven recommendations** that optimize campaigns for better conversion rates, improved ROI, and more efficient allocation of marketing resources.
+
+By clearly diagnosing these gaps, this study provides a **strategic foundation for marketers** to convert engagement into tangible outcomes while maintaining high audience interaction.
 
 ---
 
