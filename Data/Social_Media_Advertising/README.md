@@ -13,6 +13,22 @@ This analysis applies **advanced data science and marketing analytics techniques
 By focusing on this part of the broader project, we aim to provide a **clear, data-driven understanding of social media performance**, enabling businesses and marketers to **maximize conversion while maintaining high engagement levels**.
 
 ---
+## 📌 Project Overview / Purpose
+
+This folder contains the **Social Media Advertising datasets**, which are a key part of the larger **"High Viewership with Low Conversion Rates"** project.  
+
+The primary objective of this subset is to analyze **why social media campaigns often attract high engagement but fail to convert views and clicks into meaningful business outcomes**, such as purchases, sign-ups, or subscriptions.  
+
+By examining campaign performance, audience demographics, and detailed engagement metrics, this data enables:
+
+- **Identification of high-viewership campaigns with low conversion rates.**  
+- **Analysis of audience behavior and segment performance** to understand which user groups engage but do not convert.  
+- **Evaluation of campaign efficiency** across channels, content, and targeting strategies.  
+- **Data-driven recommendations** to optimize ad spend, content, and targeting for improved ROI.  
+
+This dataset serves as the foundation for **predictive modeling, segmentation analysis, and actionable marketing insights**, providing marketers and data analysts with the tools to **maximize conversion while maintaining high engagement**.
+
+---
 
 ## 🚨 Problem Statement
 
