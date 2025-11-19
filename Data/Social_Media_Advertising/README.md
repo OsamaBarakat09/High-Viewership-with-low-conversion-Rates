@@ -276,4 +276,4 @@ Each path focuses on different aspects of campaigns, audiences, or performance, 
 Data Scientist | Marketing Analytics & Conversion Optimization  
 📍 Passionate about combining data science and marketing psychology to drive measurable business growth.  
 
-📫 [LinkedIn]([https://www.linkedin.com/in/osamabarakat](https://www.linkedin.com/in/osama-barakat-9b1b511b8/))
+📫 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/osama-barakat-9b1b511b8/)
